@@ -60,9 +60,9 @@ As imagens das telas do aplicativo estão disponíveis na pasta `screenshots`.
 
 ![Onboarding](screenshots/02-Onboarding.png)
 
-![Ocorrencias](screenshots/03-Ocorrencias.png)
+![Ocorrências](screenshots/03-Ocorrências.png)
 
-![Registrar_Ocorrencias](screenshots/04-Registrar_Ocorrencias.png)
+![Registrar_ocorrência](screenshots/04-Registrar_ocorrência.png)
 
 ![Detalhes](screenshots/05-Detalhes.png)
 
@@ -74,5 +74,5 @@ Marcos Henrique RIbeiro de Santana
 RM:98561
 
 ## Instituição
-
+Prova de DP - Android
 **FIAP — Global Solution 2026.2**
